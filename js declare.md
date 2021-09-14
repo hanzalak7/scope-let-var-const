@@ -1,8 +1,5 @@
 # 6 Ways to Declare JavaScript Functions
 
-javascript
-function
-
 A function is a parametric block of code defined once and called multiple times later. In JavaScript a function is composed and influenced by many components:
 
 JavaScript code that forms the function body
@@ -31,7 +28,9 @@ Table of Contents
 5. Generator function
 6. One more thing: new Function
 7. At the end, which way is better?
-#1. Function declaration
+
+
+1. Function declaration
 A function declaration is made of function keyword, followed by an obligatory function name, a list of parameters in a pair of parenthesis (para1, ..., paramN) and a pair of curly braces {...} that delimits the body code.
 
 An example of function declaration:
