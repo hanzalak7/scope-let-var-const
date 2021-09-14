@@ -1,4 +1,4 @@
-# scope Var, Let, and Const – What's the Difference?
+# Scope Var, Let, and Const – What's the Difference?
 A lot of shiny new features came out with ES2015 (ES6). And now, since it's 2020, it's assumed that a lot of JavaScript developers have become familiar with and have started using these features.
 
 While this assumption might be partially true, it's still possible that some of these features remain a mystery to some devs.
@@ -160,3 +160,4 @@ While var and let can be declared without being initialized, const must be initi
 Got any question or additions? Please let me know.
 
 Thank you for reading :)
+By Hanzala Kathewadi
